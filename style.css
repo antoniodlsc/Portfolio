@@ -1,0 +1,119 @@
+.principalC{
+  height: 100vh;
+
+}
+
+
+
+
+.section1{
+  background-color: #A6B1E1;
+  padding-bottom: 250px;
+  
+}
+  
+.titulo1{
+  margin-top: 197px;;
+  margin-left: 60px;
+  font-family: "Bree Serif";
+  font-size: 69px;
+  
+}
+
+.image2{
+
+  
+}
+.name1{
+  margin-left: 60px;
+  font-family:"DM Serif Display" ;
+  font-size: 35px;
+  
+}
+.bree-serif-regular {
+  font-family: "Bree Serif", serif;
+  font-weight:80px;
+  font-style: normal;
+}
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.title2{
+  font-family:"DM Serif Display";
+  font-size: 80px;
+  color: #f4be69;
+}
+
+.section2{
+  background-color: #DCD6F7;
+  height: 100vh;
+}
+.MyDescription{
+  font-family: sans-serif;
+  font-size: 35px;
+}
+.section3{
+  background-color: rgb(66, 72, 116);
+  font-family: sans-serif;
+  
+  margin-left: 60px;
+  
+}
+.descriptionSec3{
+font-size: 28px;
+color: #fdfdfd;
+}
+.titlesSec3{
+  color: #f4be69;
+  font-size: 80px;
+}
+
+.section4{
+  font-family: sans-serif;
+  font-size: 35px;
+  background-color: #F4EEFF;
+
+}
+.title4{
+  font-size: 80px;
+}
+.descriptionSec4{
+  font-size: 35px;
+}
+
+
+
+.open-sans-alltexts {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 95;
+}
+
+.images3{
+  transition: 0.5s;
+  object-fit: cover;
+}
+
+.images3:hover{
+  transform: scale(1.2);
+}
+
+.bot1{
+  transition: 1.5s;
+  object-fit: cover;
+}
+
+.bot1:hover{
+  transform: scale(1.1);
+}
+
+.click1{
+  color: rgba(210, 105, 30, 0.597);
+}
